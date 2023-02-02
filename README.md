@@ -3,7 +3,7 @@ Finetuned gpt2-xl model on the Hebrew bible. This will babble new potentially go
 
 
 You can run an example at Hugging Face:
-https://huggingface.co/tombenj/hebrew_bible
+https://huggingface.co/tombenj/hebrew_bible_ai
 
 Based on the input from:
 https://raw.githubusercontent.com/BibleNLP/ebible/main/corpus/heb-heb.txt
